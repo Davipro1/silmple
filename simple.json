@@ -1,6 +1,6 @@
 {
   "Version": "1.1.2",
-  "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
+  "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nNUEVO VERSION DISPONIBLES???\n\nSERVERS GRATIS\n\nAMERICA SERVER\nFREE SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
     {
@@ -9,7 +9,7 @@
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
       "ServerPass": "minapronet",
-      "sInfo": "NO DATA LOAD",
+      "sInfo": "https://chat.whatsapp.com/HhL1q7SzseILlKIujv0mq2",
       "Slowchave": "",
       "Nameserver": "",
       "servermessage": "FREE UDP CLARO Y PERSONAL",
@@ -21,7 +21,7 @@
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
       "ServerPass": "minapronet",
-      "sInfo": "NO DATA LOAD",
+      "sInfo": "https://chat.whatsapp.com/HhL1q7SzseILlKIujv0mq2",
       "Slowchave": "",
       "Nameserver": "",
       "servermessage": "FREE UDP CLARO Y PERSONAL",
@@ -33,10 +33,10 @@
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
       "ServerPass": "minapronet",
-      "sInfo": "NO DATA LOAD",
+      "sInfo": "https://chat.whatsapp.com/HhL1q7SzseILlKIujv0mq2",
       "Slowchave": "",
       "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
+      "servermessage": "MR DECODER FREE SERVER CLARO PERSONAL 👌",
       "tunnelT": "UDP"
     },
     {
@@ -45,10 +45,10 @@
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
       "ServerPass": "minapronet",
-      "sInfo": "NO DATA LOAD",
+      "sInfo": "https://chat.whatsapp.com/HhL1q7SzseILlKIujv0mq2",
       "Slowchave": "",
       "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
+      "servermessage": "MR DECODER FREE SERVER CLARO PERSONAL 👌",
       "tunnelT": "UDP"
     },
     {
@@ -57,10 +57,10 @@
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
       "ServerPass": "minapronet",
-      "sInfo": "NO DATA LOAD",
+      "sInfo": "https://chat.whatsapp.com/HhL1q7SzseILlKIujv0mq2",
       "Slowchave": "",
       "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
+      "servermessage": "MR DECODER FREE SERVER CLARO PERSONAL 👌",
       "tunnelT": "UDP"
     },
     {
@@ -69,11 +69,17 @@
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
       "ServerPass": "minapronet",
-      "sInfo": "NO DATA LOAD",
+      "sInfo": "https://chat.whatsapp.com/HhL1q7SzseILlKIujv0mq2",
       "Slowchave": "",
       "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
+      "servermessage": "MR DECODER FREE SERVER CLARO PERSONAL 👌",
       "tunnelT": "UDP"
+    },
+    {
+      "Name": "AUTO UDP FAST",
+      "pInfo": "FREE UDP",
+      "udpResolver": "8.8.8.8:53",
+      "udpUse": true
     }
   ],
   "Networks": [
