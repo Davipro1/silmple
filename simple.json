@@ -1,10 +1,10 @@
 {
-  "Version": "199.1.1",
+  "Version": "1.1.1",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
     {
-      "Name": "AMERICAN",
+      "Name": "UDP 1",
       "FLAG": "us",
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
@@ -12,11 +12,11 @@
       "sInfo": "NO DATA LOAD",
       "Slowchave": "",
       "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
+      "servermessage": "FREE UDP CLARO Y PERSONAL",
       "tunnelT": "UDP"
     },
     {
-      "Name": "America ARIZONA",
+      "Name": "UDP ARIZONA",
       "FLAG": "us",
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
@@ -24,11 +24,11 @@
       "sInfo": "NO DATA LOAD",
       "Slowchave": "",
       "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
+      "servermessage": "FREE UDP CLARO Y PERSONAL",
       "tunnelT": "UDP"
     },
     {
-      "Name": "America Alaska",
+      "Name": "UDP 3",
       "FLAG": "ph",
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
@@ -40,7 +40,7 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "London VOIP",
+      "Name": "LONDRE UDP",
       "FLAG": "uk",
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
