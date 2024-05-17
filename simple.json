@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
@@ -52,7 +52,7 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "Singapore",
+      "Name": "UDP SINGAPORE",
       "FLAG": "sg",
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
@@ -64,7 +64,7 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "AMERICA 2",
+      "Name": "UDP V1 2",
       "FLAG": "us",
       "ServerIP": "173.249.58.170",
       "ServerUser": "udp",
